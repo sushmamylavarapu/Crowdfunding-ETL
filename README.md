@@ -13,7 +13,7 @@ Mini group project on Crowdfunding-ETL.
  - Extracted and transfromed crowdfunding and contact date from Excel files
  - Create and export Category, Subcategory, Campaign, and contact csv files
  - Create PostgreSQL database tables
- - Dessign an ERD
+ - Design an ERD
 
 
 
