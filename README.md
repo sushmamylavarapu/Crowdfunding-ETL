@@ -10,7 +10,7 @@ Mini group project on Crowdfunding-ETL.
 
  ## Summary:
  Using Python, Pandas, Jupyter Notebooks, PostgreSQL and QuickDBD to complete this projecy:
- - Extracted and transfromed crowdfunding and contact date from Excel files
+ - Extract and transfrom crowdfunding and contact data from Excel files
  - Create and export Category, Subcategory, Campaign, and contact csv files
  - Create PostgreSQL database tables
  - Design an ERD
