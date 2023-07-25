@@ -17,5 +17,15 @@ Mini group project on Crowdfunding-ETL.
  - Create PostgreSQL database tables
  - Design an ERD
 
+ ## Modules:
+- pandas
+- datetime
+- numpy
+- re
+
+
+
+
+
 
 
